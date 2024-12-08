@@ -1,0 +1,7 @@
+.Product {
+    display: flex;
+    width: 1300px;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
