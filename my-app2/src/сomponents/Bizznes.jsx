@@ -28,7 +28,7 @@ export function Bizznes() {
             <h3 style={{fontSize: '35px', color: 'aqua'}}> {` Price: ${findDiscountPrice(products2.price, products2.discountedPrice)}`}</h3>
             <h3 style={{fontSize: '35px', color: 'fuchsia', textDecoration: 'line-through'}}> {` ${products2.discountedPrice ? `Price:` : ''} ${products2.discountedPrice ? `${products2.price}` : ''}`}</h3>
             <h3 style={{fontSize: '35px', color: 'brown'}}>{products2.viewCount}</h3>
-            <h3 style={{fontSize: '35px', color: 'greenyellow'}}>{products2.rating}</h3>
+            <h3 style={{fontSize: '35px', color: 'greenyellow'}}>{`Рейтинг: ${products2.rating}`}</h3>
 
           </div>
         ))
