@@ -57,7 +57,7 @@ export const products2 = [
     id: 1,
     title: "Product 1",
     image: "https://picsum.photos/640/640?r=9418",
-    description: `Lorem ipsum dolor sit amet, \n consectetur adipiscing elit.`,
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit.`,
     discount: true,
     discountedPrice: 49.99,
     price: 69.99,
