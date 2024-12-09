@@ -1,6 +1,6 @@
 import './App.css'
-import Products1 from './Components/Products1.jsx'
-import Service from './Components/Service.jsx'
+import Products1 from './сomponents/Products1.jsx'
+import Service from './сomponents/Service.jsx'
 
 export default function App() {
 
