@@ -1,0 +1,16 @@
+.Todo {
+    width: 100px;
+    margin: 0 auto;
+    /*display: flex;*/
+}
+.TodoItem {
+    display: flex;
+    gap: 10px;
+}
+.form {
+    display: flex;
+    padding-bottom: 15px;
+}
+.btn {
+    cursor: pointer;
+}
